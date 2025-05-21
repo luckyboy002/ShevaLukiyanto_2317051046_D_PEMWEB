@@ -50,6 +50,5 @@ w-100">Login</button>
     alert("Login gagal. Username atau password salah.");
 </script>
 <?php endif; ?>
-
 </body>
 </html>
